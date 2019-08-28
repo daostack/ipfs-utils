@@ -1,0 +1,10 @@
+*sublime*
+*.pyc
+build/
+logs/
+node_modules/
+file*.*
+*.tgz
+.vscode/
+ipfs-files/
+yarn*

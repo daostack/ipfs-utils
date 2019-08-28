@@ -1,0 +1,17 @@
+{
+  "name": "ipfs-read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipfs-read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^33.1.1"
+  }
+}
